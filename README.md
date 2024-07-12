@@ -1,4 +1,4 @@
-##📖 Overview**
+## 📖 Overview**
 This project demonstrates the integration of live API data into a dynamic web application using the Fetch API. It focuses on real-time data fetching, efficient error handling, and performance optimization to create a seamless user experience.
 
 ## 🎯 Features**
